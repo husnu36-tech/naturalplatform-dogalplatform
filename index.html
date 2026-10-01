@@ -16,7 +16,7 @@
             min-height: 100vh;
             margin: 0;
             text-align: center;
-            padding: 20px 0;
+            padding: 40px 0;
         }
         .brand-title { 
             color: #58a6ff; 
@@ -80,12 +80,11 @@
     <!-- KÜRESEL MANİFESTO LİNK BAŞLANGICI -->
     <hr style="width: 90%; max-width: 600px; border: 0; border-top: 1px solid #30363d; margin-top: 20px;" />
     <div class="manifesto-link-container" style="margin-top: 20px; margin-bottom: 20px; font-family: sans-serif; max-width: 600px; width: 90%;">
-        <h3 style="color: #58a6ff; margin-bottom: 15px;">📢 New Publication / Neue Veröffentlichung / Yeni Yayın</h3>
+        <h3 style="color: #58a6ff; margin-bottom: 15px;">📢 Publications & Dialogues / Yayınlar ve Diyaloglar</h3>
         <p style="font-size: 1.1em; line-height: 1.6; max-width: 100%; margin-bottom: 0;">
-            <a href="aufruf-manifest.html">
-                [EN] Scientific Appeal: Why the Rescue of Nature is Inseparably Linked to the Social State and Peace <br /><br />
-                [DE] Wissenschaftlicher Aufruf: Warum die Rettung der Natur untrennbar mit dem Sozialstaat und dem Frieden verbunden ist <br /><br />
-                [TR] Bilimsel Çağrı: Doğanın Kurtuluşu Neden Sosyal Devlet ve Barışa Bağlıdır?
+            <!-- Hier ist der funktionierende Link zu Ihrer .md Datei auf GitHub Pages -->
+            <a href="./Ekşi Sözlük, Sınıf Mücadelesi ve Doğal Açık Kaynak: Sokratik Bir Diyalog .md">
+                🇹🇷 Ekşi Sözlük, Sınıf Mücadelesi ve Doğal Açık Kaynak: Sokratik Bir Diyalog (.md)
             </a>
         </p>
     </div>
@@ -93,6 +92,7 @@
     <!-- KÜRESEL MANİFESTO LİNK BİTİŞİ -->
 
     <script>
+        // Automatische Weiterleitung basierend auf der Browsersprache
         const userLang = navigator.language || navigator.userLanguage;
         if (userLang.startsWith('tr')) window.location.href = "./tr/";
         else if (userLang.startsWith('de')) window.location.href = "./de/";
