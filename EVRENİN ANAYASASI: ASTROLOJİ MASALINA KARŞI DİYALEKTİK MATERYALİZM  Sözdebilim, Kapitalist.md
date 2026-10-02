@@ -2,7 +2,7 @@ EVRENİN ANAYASASI: ASTROLOJİ MASALINA KARŞI DİYALEKTİK MATERYALİZM
 
 *Sözdebilim, Kapitalist Uyuşturma ve Doğanın Gerçek Yasaları Üzerine Bir Soru-Cevap Silsilesi*
 
-**Soru:** Astroloji nedir? Ahu Allıoğulları gibi isimlerin analitik iddiaları, astrolojinin felsefi, ahlaki ve tarihi arka planı aslında hangi düşünce yapısına hizmet ediyor?
+**Soru:** Astroloji nedir? ... gibi isimlerin analitik iddiaları, astrolojinin felsefi, ahlaki ve tarihi arka planı aslında hangi düşünce yapısına hizmet ediyor?
 
 **Cevap:** Astroloji, modern bilim dünyasında **sözdebilim (psödobilim)** olarak sınıflandırılır. Uranyen astroloji gibi ekoller her ne kadar matematiksel hesaplar veya istatistiksel örüntüler kullansa da, gök cisimlerinin insan karakteri üzerinde fiziksel bir etkisi yoktur. Astrolojinin "çalışıyor" hissi yaratması bilimsel değil, psikolojiktir. İnsanlar **Barnum/Forer Etkisi** nedeniyle genel ifadeleri kendilerine yontar ve **Doğrulama Önyargısı** ile sadece haklı çıkan tahminleri hatırlar. Tarihsel olarak Hermetizm ve Stoacılığın "Yukarıda ne varsa aşağıda da o vardır" kaderciliğinden beslenir. Ahlaki olarak ise en büyük zararı, bireysel sorumluluğu yok etmesidir. İnsan suçunu ve hatalarını "Merkür retrosuna" veya "Mars etkisine" attığında ortada ahlaki özne kalmaz. Astroloji, insanın bilinmezlik korkusunu sömürerek ona sahte bir kontrol hissi ve konfor alanı sunan **kozmik bir anlamlandırma** çabasıdır.
 
