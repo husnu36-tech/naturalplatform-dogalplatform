@@ -1,4 +1,4 @@
-Systemimmanente Akademie gegen organisiertes Volksbewusstsein: Ein Tagebuch der Konfrontation
+Systemimmanente Akademie gegen organisiertes Volksbewusstsein: Ein Tagebuch der Konfrontation Jan İlhan Kızılhan
 
 **Zuhörer:** Könnten Sie detaillierte Informationen über die wissenschaftlichen Forschungen und die Debatten von Psychologieprofessor Jan İlhan Kızılhan an der Universität Stuttgart geben?
 
