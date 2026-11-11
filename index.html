@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,7 +55,6 @@
             text-decoration: none;
             border-radius: 6px;
             font-weight: bold;
-            transition: all 0.2s ease;
         }
 
         .lang-btn:hover {
@@ -70,10 +68,6 @@
             text-decoration: none;
             font-weight: bold;
         }
-
-        .manifesto-link-container a:hover {
-            text-decoration: underline;
-        }
     </style>
 </head>
 
@@ -83,8 +77,7 @@
     <div class="brand-title">DOĞAL PLATFORM</div>
 
     <p>
-        Select your language to enter the open source ideation base.
-        <br>
+        Select your language to enter the open source ideation base.<br>
         Açık kaynak fikir üssüne girmek için dilinizi seçin.
     </p>
 
@@ -94,41 +87,5 @@
         <a href="./de/" class="lang-btn">Deutsch</a>
         <a href="./fr/" class="lang-btn">Français</a>
         <a href="./es/" class="lang-btn">Español</a>
-        <a href="./zh/" class="lang-btn">中文 (Chinese)</a>
-        <a href="./hi/" class="lang-btn">हिन्दी (Hindi)</a>
-    </div>
-
-    <hr style="width:90%;max-width:600px;border:0;border-top:1px solid #30363d;">
-
-    <div class="manifesto-link-container" style="margin:20px 0;max-width:600px;width:90%;">
-        <h3 style="color:#58a6ff;">
-            📢 Publications & Dialogues / Yayınlar ve Diyaloglar
-        </h3>
-
-        <a href="./eksi-sozluk-sokratik-diyalog.md">
-            🇹🇷 Ekşi Sözlük, Sınıf Mücadelesi ve Doğal Açık Kaynak:
-            Sokratik Bir Diyalog
-        </a>
-    </div>
-
-    <hr style="width:90%;max-width:600px;border:0;border-top:1px solid #30363d;">
-
-    <script>
-        const userLang = navigator.language || navigator.userLanguage;
-
-        if (userLang.startsWith('tr'))
-            window.location.href = "./tr/";
-        else if (userLang.startsWith('de'))
-            window.location.href = "./de/";
-        else if (userLang.startsWith('fr'))
-            window.location.href = "./fr/";
-        else if (userLang.startsWith('es'))
-            window.location.href = "./es/";
-        else if (userLang.startsWith('zh'))
-            window.location.href = "./zh/";
-        else if (userLang.startsWith('hi'))
-            window.location.href = "./hi/";
-    </script>
-
-</body>
-</html>
+        <a href="./zh/" class="lang-btn">中文</a>
+        <a href="./hi/"
